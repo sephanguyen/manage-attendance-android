@@ -11,7 +11,7 @@ public class Network {
      */
 
     //public static final String HOST = "http://172.20.10.2:3000/"; //Heroku
-    public static final String HOST = "http://hcmus-attendance.herokuapp.com/"; //Heroku
+    public static final String HOST = "https://phanguyen-test.herokuapp.com/"; //Heroku
 
     //public static final String HOST = "http://192.168.0.105:3000/"; //May o nha
 
